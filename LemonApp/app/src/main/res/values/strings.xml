@@ -1,0 +1,7 @@
+<resources>
+    <string name="Lemonade">Lemonade</string>
+    <string text_1="Tap the lemon tree to select a lemon" name="select">Lemonade</string>
+    <string text_2="Keep tapping the lemon to squeeze" name="squeeze">Lemonade</string>
+    <string text_3="Tap the lemonade to drink it" name="drink">Lemonade</string>
+    <string text_4="Tap the empty glass to restart again" name="restart">Lemonade</string>
+</resources>
